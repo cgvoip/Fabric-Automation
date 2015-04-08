@@ -1,4 +1,4 @@
-# This Fabfile will do the followin:
+# This Fabfile will do the following in Python using the Fabric library:
 #    - update the remote system(s)
 #    - download and install an application
 
