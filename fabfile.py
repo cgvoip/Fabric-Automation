@@ -1,4 +1,4 @@
-# Fabfile to:
+# This Fabfile will do the followin:
 #    - update the remote system(s)
 #    - download and install an application
 
